@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mineral-silicon-276909",
+  "private_key_id": "de21ade01a3f5c4ec268d584aa8dca717e5c4c06",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCWxn3nTeIRUl8W\nuzKhoOlbzXbroOr/9tWm0FLw3bheuWPGrj+Dpy2jJWa0pgh/7ZYXftznZG2NqgF0\nsrjX5Z4jZzt3LLWIijfd6QtKHbH+RcSQgttpu/k8ws/zHI6fjpkPyg2ZkPpCrnyG\nNiumBrVblB22NRsRDqzAxSII/ZNwvHDtFQOdQZXkCQuWuVCaX1vPiPrXpokfIYoO\n1F/6WMzfeVYMREuTd7glVOpFr9lINkh2GNVYmppbdrlLsa+gxXvuUGdtmA9bnRhi\n2Mxtw2PpgDom3eLGCc7cYCfRgsrRHyeOj16gul3BAJtc3+tZA7K8Q4yFfc7+BHnz\n5m9IGMOVAgMBAAECggEADQaHXHr2P4xX8ikIcf2qg1eQAUG045mRshhXvf7NnYNT\nGxg1HPzNnMVPpuYcIF8oYw2+7E+ZBk7MUuZYwTARVhomQUCvyySzuFxYcRX5KVAi\nL+DaLzuBx+3FlMlgCelCEGLig2SKtkWINPkLksuMEeYNHg9e7/2OT5YIP3IWsXu4\nGl9J2xE8C+17XLAtWzO/NZ0TUAuOBrNf3ekPaXXzunU6akvvZLQhWGAqvfkYKf4N\nuzuAUE3lJQ9ky81e8M8V7TT7JYf+FqsTT2hY70oPAATTqP3tCeoq3R0s9RhgNKRH\nCX6kFp8utCu9R97R+zMed19v/Ll2sawLOMiHU08U4QKBgQDRoSbBtIEQh+/1SwfN\nAQ8u/bdlrnC/fSs9DR1hCdV6giok+wTcyVKOwzO7LzxNF1X68G1fhNbiNFp8q+AI\n3FFFSFZFyy6MJDV2GBqWyV8Aeo7mQnqJWkX8gCptxqxNQ/NvfswmxRIBStmvCpl6\n1RGKZ4LtEGs5yoNv/82rFQtooQKBgQC4II/71NSXcE7hdBSf90RJj3xU8BvRvMHE\ntrSNCkrFXQdZgv6hTPP/qQb8x2YrO7TxMKda15wXEAO/acRv/eNU6xfsgWMZCu2B\n34HAgTQNEWBqIpna/mbEOpcYc6fHwswf+kEj4igO5o+TukFhzuAHo/agyKrWzZO9\niRUcPeKydQKBgQCQ9zl/ER2D2g3V+qoNWeMvIuOV3Jk5wwyIrq4Xch6AFs2gPzrw\nmASQl2sJ0jOIOFAMNgHc4VdcnMnKl21Zk0pceBa5MzYgUdXqseaJSf55rUdu8qAc\npiHp6JPu0EpNMGWDQBNb6EJ4RFPfWZwjtn7n0IdY+1a7Y1GbvTF0UxxNoQKBgAh5\nNycXvFDb0kV92hUig/n+qHIgOqeEUEaFQfnbp2U9ysDLznwN1ozFcpTfeEw1Czau\nToVXts845XNBotCklnmp+AfiTHUyk4uOhaIeUA7p5c38magCXShaqeluKSKATHSM\nR8Mm/UDyS1k5ERk3NAgl+4uasIICI/JtBJOwJWahAoGBALQ0CbFC+JazlgHIzPrb\nJA5d8/p+CLECT9jsAS+iPfTA1a/TgGVnspN3Vj45UA5BKTV/YU6nOWUVHppQ179e\nwHZZglIa2RKYvM4+thHvoQd01pnvCx0nnm2DyQFdXJtIP+zonWIeMIH4ta13QY0L\n7CgwjvBEHWmT+nRyICMAGxok\n-----END PRIVATE KEY-----\n",
+  "client_email": "speech@mineral-silicon-276909.iam.gserviceaccount.com",
+  "client_id": "106357538143282153226",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speech%40mineral-silicon-276909.iam.gserviceaccount.com"
+}

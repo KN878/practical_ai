@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "eco-plating-270810",
+  "private_key_id": "8f45246282807b4b14e8dd8efa788944e0297a3e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCvAabdwuq46r+b\nk9VM3KXc1GXBGTUvCxgDdc0QoB/W2fjUwWsIrafBbzFGV1BEln0AtOiCXYNKf5YZ\n3h5nAViRLFFxwX21BDfMrPpMuISb+gWO+VMVZu+7EI7Ez1OzLscYOTjP5SBTiLt1\n6Y4FWYMe7QilnQApXCAHB1+eDZ12SB5N634qsOiZ1a/KA6j3CrYln89dIIARTthQ\nIme0HmS5BiSxG+I+yGVTyU/DUnvb2ODTU+ZU+UObBFnucMpZ+J2A+ko1Je9NsA8C\nF3m61uBRP9ahvHxv6m04QG1VNBDtmfGQGaVZEJn7U+7Jx+MlAAQGLkaAoxHv6CYK\nn2+YBOdnAgMBAAECggEALg2DOcw3NF4h+fDXKpjN1OTXug7GHhEPSqnPQtbASiul\n/WbAodIA2ThHgTks2D+5uVvh65xsFkio2TnISlbiVaGR9Rtz1xS7ElNasqHD07/h\ngpQ9tt4Vq+ZZi5T7c6WVotw8BQlIjnLm0cqaIvJBPPwnUF2WU0v46aCZGuB+VUeJ\nhqScl2Ql5xqFCZn4tNyf7GI9ybSafAEzxUwQnn2VORA1yNvU4kotLS6pJjUh5L+j\n7K3yFLl7zVNfgqtt/rHKO1ZgJRitTZC+HF2c7VVMFf4CP9aKo2PUeH4cpx3+xcAA\nZdH6DY+RJEiIJGcPDId/r+CrmsVXYIdptok2z7ihQQKBgQDg9S4L3ECb4gHtxyOQ\nf64JKO9hwf40hVZy2rgiX7zkX9kLVkHyAfnJJLPOqZAwKBKNMCtiuPeuw76I5faV\ncl4fD/iziJH2roKmWbAbKPCsnpfNsaFHXQoh5LKdXC0/IG93kGunrZDEpygBsPss\nnSj8PH6aj2ZLJAVa7E+C/kPrEQKBgQDHJ+axzyAX0zkUwAC/cvpliuwRohrXMLbC\nZ42haebVqYU68iW0xURrkH4t7ng4+IoFMmAULiMe/z69BdI4yr/55bNteZdouGHA\n7wGMx7hm4/8bOl+//DACOskVGRSB4o88T0SKdR3SmYcXgdkKrDMemPZ8Pe/xEvof\n6IDy6Qd69wKBgDLaWflmZdiXQ7ZbwQdmRZJehZbEwtFenwdBuERU/h9mJ2tvqWKq\n3auBt3/tRuIL/P2buQMNKzh/mW/bBF4OR4agFqmHIu/vzSsLtUq+e4GaLFjcYcf/\nGU5GI7Z84uGVVH1j0WJLUyGRY/LV7kHMmTpD9p678fTkhK1kJClJj1LxAoGAa8gA\nZgJ+j+ZUYhJ3VSVYtlO05uYgOI24mwWH9O9nagLQg9JA7dBE8yHD5//DOLHpoF5e\n+QzvHPtubMYVu36e3xOdQ4YmlxoSbWPsJtB/z89cZNP2teQ55zsBUFW+b3y5oB4W\nLgisFynXnrU7TTdcgxatbxfmH0Xx8ArYnp3W2okCgYAX7Bp98CnyysN8Qn0NvnGt\ngiLnHKhAd8sAagfAKwMJsjh/W0CFjvwIsIm83IyZIdh8ksUjcR/RTB0sv8cwfh+i\nRWLA2Kk2Ljt+1p3xIps2kGe/gagQsqt0OBV59OALhWRk/jTG5tk7h22bhA4B7Ruv\nPsI3fprb6Sy8yibpLYCcJA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "googlespeech@eco-plating-270810.iam.gserviceaccount.com",
+  "client_id": "105073337388952805905",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googlespeech%40eco-plating-270810.iam.gserviceaccount.com"
+}

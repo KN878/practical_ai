@@ -1,0 +1,49 @@
+(clear)
+
+(deftemplate client 
+	(slot name) 
+	(slot income)
+	(slot education)
+	(slot age))
+
+; переименовывайте дефрулы и ассерты :)	
+(defrule income-bigger-than-33k
+	(client (name ?x) (income ?i) (education ?e) (age ?a))
+	(test (> ?i 33270.53))
+	=>
+	(assert (income-bigger-than-33k ?x)))
+	
+(defrule income-bigger-than-44k
+	(client (name ?x) (income ?i) (education ?e) (age ?a))
+	(income-bigger-than-33k ?x)
+	(test (> ?i 44861.79))
+	=>
+	(assert (good-client ?x)))
+
+(defrule income-sufficient-and-has-education
+	(client (name ?x) (income ?i) (education ?e) (age ?a))
+	(income-bigger-than-33k ?x)
+	(eq ?e y)
+	=>
+	(assert (good-client ?x)))
+	
+(defrule income-not-sufficient-but-age-bigger-than-28
+	(client (name ?x) (income ?i) (education ?e) (age ?a))
+	(not (income-bigger-than-33k ?x))
+	(test (> ?a 28.5))
+	=>
+	(assert (income-insufficient-age-sufficient ?x)))
+
+(defrule income-bigger-than-28k-age-bigger-than-28
+	(client (name ?x) (income ?i) (education ?e) (age ?a))
+	(income-insufficient-age-sufficient ?x)
+	(test (> ?i 28790.85))
+	=>
+	(assert (good-client ?x)))
+
+(assert (client (name "Stas") (income 100500) (education y) (age 32.98)))
+
+(run)
+(facts)
+(exit)
+;
